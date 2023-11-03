@@ -16,13 +16,13 @@ Jadi, ini adalah sebuah program perkebunan dengan dua role login yaitu role owne
 
 
 ## 4. ERD (Entity Relationship Diagram)
-#1. Logical
+
 ![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/262d3470-9bc0-4aea-8ea8-f3d8ee8afbb3)
 
-#2. Relational
+
 ![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/377f2322-c7b1-4c99-9207-c5f2c4227d79)
 
-#3. Relational phpmyadmin
+
 ![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/0b9fd84f-b472-4fb4-8eb1-d4d34a23b2d4)
 
 
