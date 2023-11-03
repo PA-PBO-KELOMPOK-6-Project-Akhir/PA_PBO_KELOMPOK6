@@ -36,7 +36,17 @@ Tambahkan screenshot kodingan berserta penjelasan di sini. Ini akan membantu pen
 
 ![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/5f5a004a-8e4b-4ce7-8db1-56190c90e3a4)
 
-![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/9cc949a6-1573-415f-989a-9ff572dc9e10)
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/8adf7a09-de5b-4d94-9f06-86cbc0036458)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/4fb3f40e-204d-4d5d-84e8-d719cb9aed58)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/f915bff1-d324-4e45-b72f-7e5b03fdf121)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/68afcb73-df40-4805-8ed5-0a2108e00b74)
+
+
+
+
 
 
 
