@@ -1,35 +1,45 @@
 # PA_PBO_KELOMPOK6
-USWATUN KHASANAH 2209116010
-HELENA
+1. USWATUN KHASANAH (2209116010)
+2. HELENA
 
-# Nama Template
+## 1. Nama Project
 
-Deskripsi singkat tentang template Anda.
+Nama proyek Anda di sini.
 
-## Penggunaan
+## 2. Deskripsi Project
 
-Instruksi tentang cara menggunakan template:
+Deskripsi lengkap proyek Anda.
 
-1. Langkah pertama
-2. Langkah kedua
-3. Dan seterusnya...
+## 3. Flowchart
 
-## Struktur Folder
+Tambahkan flowchart dari aplikasi Anda di sini. Anda dapat menggunakan alat seperti draw.io, Lucidchart, atau alat lain yang Anda pilih.
 
-Deskripsi tentang struktur folder template:
+## 4. ERD (Entity Relationship Diagram)
 
-- /folder1: Deskripsi folder 1
-- /folder2: Deskripsi folder 2
-- ...
+Tambahkan ERD proyek Anda di sini. ERD membantu menggambarkan hubungan antara entitas dalam database Anda.
 
-## Kontribusi
+## 5. Hirarki Kelas
 
-Instruksi tentang cara berkontribusi pada template:
+Tambahkan gambar hirarki kelas proyek Anda di sini. Jika tidak ada penerapan Inheritance atau Abstraction, sertakan saja kelas-kelas yang ada tanpa hirarki.
 
-1. Fork repository
-2. Lakukan perubahan
-3. Buat Pull Request
+![Contoh hirarki kelas](link_gambar_anda_di_sini)
 
-## Lisensi
+## 6. Screenshot Kodingan
 
-Tentukan lisensi yang digunakan untuk template Anda.
+Tambahkan screenshot kodingan berserta penjelasan di sini. Ini akan membantu pengguna memahami logika di balik aplikasi Anda.
+
+## 7. Screenshot Output
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/ed755a07-d40c-48c4-903b-4e57a85f2de9)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/3d502148-f1d0-4029-aeff-54ccf4acaaaf)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/5f5a004a-8e4b-4ce7-8db1-56190c90e3a4)
+
+![image](https://github.com/PA-PBO-KELOMPOK-6-Project-Akhir/PA_PBO_KELOMPOK6/assets/115265157/9cc949a6-1573-415f-989a-9ff572dc9e10)
+
+
+
+
+Tambahkan screenshot output aplikasi Anda di sini. Ini akan memberikan gambaran visual tentang apa yang dihasilkan oleh kode Anda.
+
